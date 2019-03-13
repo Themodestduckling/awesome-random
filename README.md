@@ -171,6 +171,8 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## ES6
 
+## Potato
+
 ## React
 - [Official site](https://reactjs.org/)
 
@@ -195,7 +197,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - https://en.wikipedia.org/wiki/Observability
 
 ## Devops
- - https://www.schoolofdevops.net/p/ultimate-devops-bootcamp - Free and a handson approach to get started
+ - https://www.schoolofdevops.net/p/ultimate-devops-bootcamp - A free and hands on approach to get started.
 
 
 ## Data Visualizations
